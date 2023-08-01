@@ -120,7 +120,9 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: darkblue;
+  border-radius: 10px;
+  margin-left: 10px;
   height: 300px;
   display: flex;
   width: 30%;
@@ -128,7 +130,9 @@ body {
   align-items: center;
 }
 
-
+p {
+    margin: 0 1em;
+}
 
 
 /* ==========================================================================
